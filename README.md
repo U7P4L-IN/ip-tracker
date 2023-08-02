@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 ___Welcome___
 
 

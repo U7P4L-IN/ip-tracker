@@ -1,7 +1,7 @@
 <p align="center">
 ___Welcome___
 
-# hi doggy
+
 AUTHOR:
 <p align="center">
 ANONYMOUS U7P4L
